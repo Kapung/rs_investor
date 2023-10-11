@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "itemID": "532",
+      "item": "Big bones",
+      "price": 1515,
+      "quantity": 20,
+      "total_used": 30300,
+      "timestamp": "2023-10-10T12:45:37.729Z"
+    },
+    {
+      "itemID": "4587",
+      "item": "Dragon scimitar",
+      "price": 54544,
+      "quantity": 10,
+      "total_used": 545440,
+      "timestamp": "2023-10-10T12:46:06.298Z"
+    },
+    {
+      "itemID": "52664",
+      "item": "Golden partyhat",
+      "price": 400000000,
+      "quantity": 2,
+      "total_used": 800000000,
+      "timestamp": "2023-10-10T12:47:06.316Z"
+    }
+  ]
+}

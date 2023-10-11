@@ -1,0 +1,41 @@
+{
+  "sales": [
+    {
+      "profit": -650,
+      "timestamp": "2023-10-10T23:49:00.869Z",
+      "item": "Bones",
+      "amount": 50,
+      "soldAt": 117
+    },
+    {
+      "profit": -650,
+      "timestamp": "2023-10-10T23:49:23.996Z",
+      "item": "Bones",
+      "amount": 50,
+      "soldAt": 117
+    },
+    {
+      "profit": 150,
+      "timestamp": "2023-10-10T23:51:56.160Z",
+      "item": "Bones",
+      "amount": 50,
+      "soldAt": 117
+    },
+    {
+      "profit": 15,
+      "timestamp": "2023-10-10T23:53:21.653Z",
+      "item": "Bones",
+      "amount": 5,
+      "soldAt": 117,
+      "boughtAt": 114
+    },
+    {
+      "profit": 0,
+      "timestamp": "2023-10-10T23:53:40.804Z",
+      "item": "Bones",
+      "amount": 50,
+      "soldAt": 117,
+      "boughtAt": 117
+    }
+  ]
+}
